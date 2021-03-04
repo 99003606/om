@@ -1,0 +1,7 @@
+C:\Users\Training\Desktop\Using\Using\obj\Debug\Using.csprojAssemblyReference.cache
+C:\Users\Training\Desktop\Using\Using\obj\Debug\Using.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\Using\Using\bin\Debug\Using.exe.config
+C:\Users\Training\Desktop\Using\Using\bin\Debug\Using.exe
+C:\Users\Training\Desktop\Using\Using\bin\Debug\Using.pdb
+C:\Users\Training\Desktop\Using\Using\obj\Debug\Using.exe
+C:\Users\Training\Desktop\Using\Using\obj\Debug\Using.pdb
